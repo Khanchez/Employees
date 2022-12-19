@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Jstree",
+    "\\src\\Storage",
+    "\\src\\Storage\\redux"
+  ],
+  "SelectedNode": "\\src\\components\\Jstree\\FuncJsTree.tsx",
+  "PreviewInSolutionExplorer": false
+}

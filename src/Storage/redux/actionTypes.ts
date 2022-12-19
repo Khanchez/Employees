@@ -1,0 +1,1 @@
+export const SET_CURRENT_EMP =  "SET_CURRENT_EMP"
