@@ -9,7 +9,7 @@ function EmployeerData(props: Employee) {
     let data = props
 
     return (
-        <div className = "size">
+        <div className="size">
             <p>id: {data.id}</p>
             <p>Department: {data.department}</p>
             <p>First name: {data.firstName}</p>

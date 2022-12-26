@@ -18,8 +18,8 @@ function App() {
                 <div className="row">
                     <div className="col-md-6 StyleJs"><FuncJsTree {...store} /></div>
                     <div className="col-md-6 EmployeeStyle"><EmployeerData {...currentEmp} /></div> 
-                        <div className="col-md-12"><Treegrid /></div>
-                    </div>
+                </div>
+                <div className='row'><div className="col-md-12"><Treegrid /></div></div>
                 </header>
             </div>
 

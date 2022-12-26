@@ -19,7 +19,6 @@ const reducer = (state: any = defaultState, action: any) => {
             return state;
     }
 }
-/*hello*/
 
 const store = createStore(reducer);
 
